@@ -1,0 +1,47 @@
+.conteiner-1 {
+    display: flex;
+    padding-top: 30px;
+}
+
+.conteiner-2 {
+    padding-top: 30px;
+}
+
+.conteiner-3 {
+    padding-top: 30px;
+}
+
+.conteiner-4 {
+    display: flex;
+}
+
+.conteiner-5 {
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.resumo-1 {
+    padding-left: 10px;
+}
+
+.resumo-4 {
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.resumo-5 {
+    width: 55%;
+}
+
+.resumo-5 {
+    padding-right: 50px;
+}
+
+.resumo-6 {
+    padding-left: 40px;
+}
+
+img {
+    height: 350px;  
+} 

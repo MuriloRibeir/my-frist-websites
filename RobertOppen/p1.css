@@ -1,0 +1,10 @@
+.conteiner {
+    display: flex;
+}
+.img {
+    height: 350px;
+}
+
+.texto {
+    padding-right: 20px;
+}

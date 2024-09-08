@@ -1,0 +1,12 @@
+.conteiner{
+    display: flex;
+}
+
+img {
+    height: 250px;
+    width: 400px; 
+} 
+
+.text {
+    padding-top: 30px;
+}

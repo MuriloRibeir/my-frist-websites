@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, Times, 'Times New Roman';
+    color: #FFF;
+    text-decoration: none;
+}
+
+
+body {
+    background-image: url(img/fundo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.resumo-7{
+    color: #FFF;
+    text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+}
+
+.resumo-8{
+    padding-top: 10px;
+}
+
+h2{
+    padding-bottom: 20px;
+}
+
+h3{
+    padding-bottom: 20px;
+}
+
+.video-1{
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.descer{
+    padding-top: 100px;
+}
+
+.titulo-2{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(37, 37, 39);
+}
+.musica-1{
+    color: blueviolet;
+
+}
+
+.conteiner-10 {
+    display: flex;
+}
+
+
+
+
+
+
+
+.link{
+    color: blueviolet;
+}
+
+p{ 
+    padding-right: 100px;
+}
+ 

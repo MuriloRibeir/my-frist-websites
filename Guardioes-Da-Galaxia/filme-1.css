@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, Times, 'Times New Roman';
+}
+
+body {
+    background-image: url(img/fundo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.titulo-1 {
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(37, 37, 39);
+}
+
+a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.conteiner-7 {
+    display: flex;
+}
+
+.resumo-1 {
+    color: #FFF;
+    text-align: justify;
+    padding-right: 100px;
+    padding-left: 50px;
+    padding-top: 60px;
+}
+
+.imagem-7 {
+    height: 250px;
+    width: 500px;
+    padding-top: 50px; 
+    padding-right: 50px;
+}
+
+.conteiner-8 {
+    display: flex;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.resumo-2 {
+    color: #FFF;
+    text-align: justify;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 100px;
+    padding-left: 50px;
+    background-color: rgb(37, 37, 39);
+}
+
+.conteiner-9 {
+    display: flex;
+    padding-top: 50px;
+    color: #FFF;
+    padding-bottom: 50px;
+}
+
+.credito {
+    padding-top: 50px;
+    padding-left: 70px;
+}
+
+.foto3x4 {
+    height: 240px;
+    width: 180px;
+    padding-top: 7px;
+    border-radius: 20px;
+}
+
+.producao-1 {
+    padding-right: 50px;
+}
+
+.producao-2 {
+    padding-right: 50px;
+}
+
+.producao-3 {
+    padding-right: 50px;
+}
+
+.producao-4 {
+    padding-right: 50px;
+}
+
+.feito-por{
+    padding-top: 40px;
+    background-color: rgb(37, 37, 39);
+}
